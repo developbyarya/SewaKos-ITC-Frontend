@@ -1,0 +1,485 @@
+[
+  {
+    "id": "kos-01",
+    "name": "Kos Griya Merapi Putra",
+    "type": "putra",
+    "area": "Pogung, Sleman",
+    "address": "Jl. Pogung Baru Blok C No. 14, Sinduadi, Mlati, Sleman",
+    "distanceToCampus": "5 menit ke UGM",
+    "price": 850000,
+    "deposit": 300000,
+    "roomSize": "3 x 3,5 m",
+    "availableRooms": 3,
+    "rating": 4.7,
+    "ownerName": "Pak Hendro Wijaya",
+    "description": "Kos tenang di lingkungan mahasiswa Pogung dengan sirkulasi udara baik dan akses mudah ke warung makan serta fotokopi. Cocok untuk mahasiswa yang mengutamakan suasana belajar kondusif.",
+    "facilities": [
+      "Wi-Fi",
+      "Kamar Mandi Dalam",
+      "Kasur & Lemari",
+      "Meja Belajar",
+      "Parkir Motor",
+      "Dapur Bersama"
+    ],
+    "rules": [
+      "Jam bertamu maksimal pukul 22.00 WIB",
+      "Dilarang membawa tamu lawan jenis ke dalam kamar",
+      "Menjaga ketenangan setelah pukul 23.00 WIB",
+      "Listrik sudah termasuk untuk pemakaian wajar"
+    ],
+    "illustration": {
+      "variant": "pavilion",
+      "accentColor": "#0F6E56",
+      "secondaryColor": "#D5EDE5"
+    }
+  },
+  {
+    "id": "kos-02",
+    "name": "Kos Kirana Residence Putri",
+    "type": "putri",
+    "area": "Seturan, Sleman",
+    "address": "Jl. Seturan Raya Gg. Kenanga No. 8, Caturtunggal, Depok, Sleman",
+    "distanceToCampus": "4 menit ke UPN & YKPN",
+    "price": 1450000,
+    "deposit": 500000,
+    "roomSize": "3,5 x 4 m",
+    "availableRooms": 2,
+    "rating": 4.9,
+    "ownerName": "Ibu Ratna Kusuma",
+    "description": "Hunian putri modern dengan pencahayaan alami maksimal, halaman belakang rindang, dan pengawasan CCTV 24 jam. Dekat minimarket, kafe belajar, dan halte Trans Jogja.",
+    "facilities": [
+      "Wi-Fi",
+      "AC",
+      "Kamar Mandi Dalam",
+      "Water Heater",
+      "Kasur & Lemari",
+      "Meja Belajar",
+      "CCTV 24 Jam",
+      "Kulkas Bersama"
+    ],
+    "rules": [
+      "Khusus mahasiswi atau karyawati",
+      "Akses gerbang menggunakan kartu pintar",
+      "Tamu pria hanya diperbolehkan di ruang tamu",
+      "Dilarang memelihara hewan peliharaan"
+    ],
+    "illustration": {
+      "variant": "studio",
+      "accentColor": "#9D3A64",
+      "secondaryColor": "#F8E1EC"
+    }
+  },
+  {
+    "id": "kos-03",
+    "name": "Kos Omah Teduh Campur",
+    "type": "campur",
+    "area": "Demangan, Sleman",
+    "address": "Jl. Demangan Baru No. 27, Caturtunggal, Depok, Sleman",
+    "distanceToCampus": "6 menit ke Sanata Dharma & UNY",
+    "price": 1850000,
+    "deposit": 500000,
+    "roomSize": "4 x 4 m",
+    "availableRooms": 2,
+    "rating": 4.8,
+    "ownerName": "Pak Bimo Santoso",
+    "description": "Kos bernuansa tropis minimalis dengan balkon pribadi di setiap kamar dan area komunal untuk diskusi kelompok. Lantai putra dan putri dipisah secara rapi.",
+    "facilities": [
+      "Wi-Fi",
+      "AC",
+      "Kamar Mandi Dalam",
+      "Water Heater",
+      "Kasur & Lemari",
+      "Balkon Pribadi",
+      "CCTV 24 Jam",
+      "Parkir Motor",
+      "Parkir Mobil"
+    ],
+    "rules": [
+      "Wajib lapor identitas ke pengelola saat check-in",
+      "Tamu menginap wajib izin tertulis dari pengelola",
+      "Dilarang merokok di dalam kamar",
+      "Menjaga kebersihan area komunal bersama"
+    ],
+    "illustration": {
+      "variant": "courtyard",
+      "accentColor": "#5B3EA8",
+      "secondaryColor": "#ECE6FA"
+    }
+  },
+  {
+    "id": "kos-04",
+    "name": "Kos Sinar Fajar Ekonomis",
+    "type": "putra",
+    "area": "Karangmalang, Sleman",
+    "address": "Jl. Karangmalang Blok A No. 5, Caturtunggal, Depok, Sleman",
+    "distanceToCampus": "3 menit jalan kaki ke UNY",
+    "price": 550000,
+    "deposit": 200000,
+    "roomSize": "3 x 3 m",
+    "availableRooms": 4,
+    "rating": 4.4,
+    "ownerName": "Pak Slamet Raharjo",
+    "description": "Pilihan hemat untuk mahasiswa baru dengan lokasi sangat dekat kampus UNY dan banyak warung makan terjangkau. Lingkungan kekeluargaan dan pemilik tinggal di sebelah bangunan kos.",
+    "facilities": [
+      "Wi-Fi",
+      "Kasur & Lemari",
+      "Parkir Motor",
+      "Dapur Bersama",
+      "Jemuran Luas"
+    ],
+    "rules": [
+      "Kamar mandi luar dibersihkan rutin tiap pagi",
+      "Jam malam gerbang pukul 23.00 WIB (tersedia kunci duplikat)",
+      "Dilarang memasak dengan kompor gas di dalam kamar"
+    ],
+    "illustration": {
+      "variant": "joglo",
+      "accentColor": "#B46A1A",
+      "secondaryColor": "#FBF0DE"
+    }
+  },
+  {
+    "id": "kos-05",
+    "name": "Kos Melati Asri Putri",
+    "type": "putri",
+    "area": "Jakal KM 5,5, Sleman",
+    "address": "Jl. Kaliurang KM 5,5 Gg. Melati No. 19, Sinduadi, Mlati, Sleman",
+    "distanceToCampus": "7 menit ke UGM",
+    "price": 950000,
+    "deposit": 300000,
+    "roomSize": "3 x 3,5 m",
+    "availableRooms": 3,
+    "rating": 4.6,
+    "ownerName": "Ibu Sri Wahyuni",
+    "description": "Kos putri yang bersih dan adem di pinggir gang tenang dekat Jalan Kaliurang. Tersedia dapur lengkap dengan kulkas bersama serta layanan laundry kiloan di depan gang.",
+    "facilities": [
+      "Wi-Fi",
+      "Kamar Mandi Dalam",
+      "Kasur & Lemari",
+      "Meja Belajar",
+      "Dapur Bersama",
+      "Kulkas Bersama",
+      "Parkir Motor"
+    ],
+    "rules": [
+      "Khusus putri, gerbang dikunci pukul 22.30 WIB",
+      "Tamu lawan jenis dilarang masuk area kamar",
+      "Wajib mematikan lampu kamar saat bepergian"
+    ],
+    "illustration": {
+      "variant": "garden",
+      "accentColor": "#157A6E",
+      "secondaryColor": "#DDF3EF"
+    }
+  },
+  {
+    "id": "kos-06",
+    "name": "Kos Pavilion Gejayan",
+    "type": "campur",
+    "area": "Gejayan, Sleman",
+    "address": "Jl. Affandi Gg. Mawar No. 3, Condongcatur, Depok, Sleman",
+    "distanceToCampus": "5 menit ke USD & Atma Jaya",
+    "price": 2250000,
+    "deposit": 750000,
+    "roomSize": "4 x 4,5 m",
+    "availableRooms": 1,
+    "rating": 4.9,
+    "ownerName": "Ibu Nadia Pramesti",
+    "description": "Kos eksklusif bergaya studio modern dengan perabot kayu jati custom, Smart TV, dan koneksi fiber 100 Mbps. Strategis di pusat kuliner dan perkantoran Gejayan.",
+    "facilities": [
+      "Wi-Fi",
+      "AC",
+      "Kamar Mandi Dalam",
+      "Water Heater",
+      "Kasur & Lemari",
+      "Meja Belajar",
+      "CCTV 24 Jam",
+      "Laundry",
+      "Parkir Mobil"
+    ],
+    "rules": [
+      "Maksimal 1 penghuni per kamar",
+      "Dilarang membawa hewan peliharaan",
+      "Wajib menjaga kebersihan koridor dan ruang santai",
+      "Pembayaran sewa maksimal tanggal 5 setiap periode"
+    ],
+    "illustration": {
+      "variant": "loft",
+      "accentColor": "#1E4E79",
+      "secondaryColor": "#DCEBF7"
+    }
+  },
+  {
+    "id": "kos-07",
+    "name": "Kos Taman Tamansiswa Putra",
+    "type": "putra",
+    "area": "Tamansiswa, Kota Yogyakarta",
+    "address": "Jl. Tamansiswa Gg. Srikandi No. 11, Wirogunan, Mergangsan, Yogyakarta",
+    "distanceToCampus": "4 menit ke FH UII & UST",
+    "price": 700000,
+    "deposit": 250000,
+    "roomSize": "3 x 3 m",
+    "availableRooms": 5,
+    "rating": 4.5,
+    "ownerName": "Pak Agus Priyanto",
+    "description": "Kos strategis di tengah kota Yogyakarta dengan halaman parkir motor luas berkanopi. Mudah dijangkau dari kawasan Malioboro, Prawirotaman, dan kampus sekitar Tamansiswa.",
+    "facilities": [
+      "Wi-Fi",
+      "Kamar Mandi Dalam",
+      "Kasur & Lemari",
+      "Parkir Motor",
+      "Jemuran Luas"
+    ],
+    "rules": [
+      "Tamu wajib melapor kepada penjaga kos",
+      "Dilarang membuat kegaduhan di malam hari",
+      "Parkir motor wajib dikunci ganda"
+    ],
+    "illustration": {
+      "variant": "townhouse",
+      "accentColor": "#2C5E4F",
+      "secondaryColor": "#DFECE7"
+    }
+  },
+  {
+    "id": "kos-08",
+    "name": "Kos Seruni Studio Putri",
+    "type": "putri",
+    "area": "Babarsari, Sleman",
+    "address": "Jl. Babarsari TB XV No. 22, Caturtunggal, Depok, Sleman",
+    "distanceToCampus": "3 menit ke UAJY & STTNAS",
+    "price": 1650000,
+    "deposit": 500000,
+    "roomSize": "3,5 x 4 m",
+    "availableRooms": 2,
+    "rating": 4.8,
+    "ownerName": "Ibu Laksmi Dewi",
+    "description": "Kamar bergaya studio rapi dengan jendela besar menghadap taman, pantry kecil di tiap lantai, dan petugas kebersihan mingguan. Sangat diminati mahasiswi area Babarsari.",
+    "facilities": [
+      "Wi-Fi",
+      "AC",
+      "Kamar Mandi Dalam",
+      "Water Heater",
+      "Kasur & Lemari",
+      "Meja Belajar",
+      "CCTV 24 Jam",
+      "Dapur Bersama"
+    ],
+    "rules": [
+      "Khusus putri dengan akses sidik jari",
+      "Dilarang membawa tamu masuk kamar setelah pukul 21.00 WIB",
+      "Sampah dipilah di tempat sampah tiap lantai"
+    ],
+    "illustration": {
+      "variant": "studio",
+      "accentColor": "#A44A3F",
+      "secondaryColor": "#F7E5E2"
+    }
+  },
+  {
+    "id": "kos-09",
+    "name": "Kos Loft Kotabaru",
+    "type": "campur",
+    "area": "Kotabaru, Kota Yogyakarta",
+    "address": "Jl. Suroto Gg. Cempaka No. 6, Kotabaru, Gondokusuman, Yogyakarta",
+    "distanceToCampus": "6 menit ke Stasiun Lempuyangan & UGM",
+    "price": 2450000,
+    "deposit": 750000,
+    "roomSize": "4,5 x 4,5 m",
+    "availableRooms": 1,
+    "rating": 4.9,
+    "ownerName": "Pak Dimas Mahendra",
+    "description": "Hunian bergaya mezzanine loft di kawasan heritage Kotabaru yang rindang dan tenang. Dilengkapi ruang kerja bersama ber-AC, mesin cuci mandiri, serta keamanan 24 jam.",
+    "facilities": [
+      "Wi-Fi",
+      "AC",
+      "Kamar Mandi Dalam",
+      "Water Heater",
+      "Kasur & Lemari",
+      "Meja Belajar",
+      "CCTV 24 Jam",
+      "Laundry",
+      "Parkir Mobil"
+    ],
+    "rules": [
+      "Jam tenang berlaku mulai pukul 22.00 WIB",
+      "Dilarang merokok di seluruh area bangunan",
+      "Tamu wajib mengisi buku tamu di resepsionis"
+    ],
+    "illustration": {
+      "variant": "loft",
+      "accentColor": "#2F4858",
+      "secondaryColor": "#E1E9EE"
+    }
+  },
+  {
+    "id": "kos-10",
+    "name": "Kos Anggrek Condongcatur",
+    "type": "putri",
+    "area": "Condongcatur, Sleman",
+    "address": "Jl. Anggajaya II No. 31, Condongcatur, Depok, Sleman",
+    "distanceToCampus": "5 menit ke AMIKOM & UII Ekonomi",
+    "price": 650000,
+    "deposit": 200000,
+    "roomSize": "3 x 3 m",
+    "availableRooms": 4,
+    "rating": 4.5,
+    "ownerName": "Ibu Endang Sulastri",
+    "description": "Kos putri ramah di kantong dekat Terminal Condongcatur dan pasar pagi. Suasana aman, bersih, serta dekat dengan berbagai tempat makan mahasiswa.",
+    "facilities": [
+      "Wi-Fi",
+      "Kasur & Lemari",
+      "Meja Belajar",
+      "Parkir Motor",
+      "Dapur Bersama"
+    ],
+    "rules": [
+      "Khusus putri, gerbang ditutup pukul 22.00 WIB",
+      "Menjaga kebersihan dapur setelah digunakan",
+      "Iuran sampah bulanan sudah termasuk biaya sewa"
+    ],
+    "illustration": {
+      "variant": "garden",
+      "accentColor": "#8C4A6E",
+      "secondaryColor": "#F3E4EC"
+    }
+  },
+  {
+    "id": "kos-11",
+    "name": "Kos Surya Kasihan Putra",
+    "type": "putra",
+    "area": "Kasihan, Bantul",
+    "address": "Jl. Brawijaya Ringroad Barat Gg. Surya No. 17, Tamantirto, Kasihan, Bantul",
+    "distanceToCampus": "4 menit ke UMY & Alma Ata",
+    "price": 1100000,
+    "deposit": 350000,
+    "roomSize": "3,5 x 3,5 m",
+    "availableRooms": 3,
+    "rating": 4.7,
+    "ownerName": "Pak Eko Prasetyo",
+    "description": "Bangunan baru 2 lantai khusus putra dekat kampus UMY dengan kamar ber-AC dan akses internet cepat untuk kuliah daring maupun mengerjakan proyek pemrograman.",
+    "facilities": [
+      "Wi-Fi",
+      "AC",
+      "Kamar Mandi Dalam",
+      "Kasur & Lemari",
+      "Meja Belajar",
+      "Parkir Motor",
+      "CCTV 24 Jam"
+    ],
+    "rules": [
+      "Akses bebas 24 jam khusus penghuni terdaftar",
+      "Dilarang membawa tamu perempuan ke dalam kamar",
+      "Token listrik kamar ditanggung masing-masing penghuni"
+    ],
+    "illustration": {
+      "variant": "townhouse",
+      "accentColor": "#1F5F8B",
+      "secondaryColor": "#DFEDF6"
+    }
+  },
+  {
+    "id": "kos-12",
+    "name": "Kos Senja Prawirotaman",
+    "type": "campur",
+    "area": "Prawirotaman, Kota Yogyakarta",
+    "address": "Jl. Prawirotaman II No. 40, Brontokusuman, Mergangsan, Yogyakarta",
+    "distanceToCampus": "8 menit ke ISI & UAD",
+    "price": 2000000,
+    "deposit": 600000,
+    "roomSize": "4 x 4 m",
+    "availableRooms": 2,
+    "rating": 4.8,
+    "ownerName": "Ibu Sekar Arum",
+    "description": "Kos bernuansa bata ekspos dan taman tropis di lingkungan kreatif Prawirotaman. Ideal bagi mahasiswa desain, pekerja remote, atau mahasiswa tingkat akhir yang mencari ketenangan.",
+    "facilities": [
+      "Wi-Fi",
+      "AC",
+      "Kamar Mandi Dalam",
+      "Water Heater",
+      "Kasur & Lemari",
+      "Balkon Pribadi",
+      "Kulkas Bersama",
+      "CCTV 24 Jam"
+    ],
+    "rules": [
+      "Wajib menjaga ketenangan lingkungan sekitar",
+      "Tamu menginap dikenakan lapor H-1 ke pengelola",
+      "Dilarang mengubah tata letak furnitur permanen"
+    ],
+    "illustration": {
+      "variant": "courtyard",
+      "accentColor": "#9B5A2C",
+      "secondaryColor": "#F6E9DF"
+    }
+  },
+  {
+    "id": "kos-13",
+    "name": "Kos Cendana Jakal Putra",
+    "type": "putra",
+    "area": "Jakal KM 8, Sleman",
+    "address": "Jl. Kaliurang KM 8,2 Gg. Cendana No. 12, Sinduharjo, Ngaglik, Sleman",
+    "distanceToCampus": "10 menit ke UGM & UII Terpadu",
+    "price": 1350000,
+    "deposit": 400000,
+    "roomSize": "3,5 x 4 m",
+    "availableRooms": 2,
+    "rating": 4.6,
+    "ownerName": "Pak Wahyu Nugroho",
+    "description": "Udara sejuk khas Yogyakarta utara dengan ruang kamar lega, pencahayaan bagus, dan akses cepat menuju kampus UII maupun UGM. Tersedia area santai rooftop kecil.",
+    "facilities": [
+      "Wi-Fi",
+      "AC",
+      "Kamar Mandi Dalam",
+      "Kasur & Lemari",
+      "Meja Belajar",
+      "Parkir Motor",
+      "Dapur Bersama",
+      "CCTV 24 Jam"
+    ],
+    "rules": [
+      "Khusus mahasiswa atau karyawan putra",
+      "Dilarang membuat kebisingan di rooftop setelah pukul 22.00 WIB",
+      "Menjaga kebersihan kamar mandi dan selasar"
+    ],
+    "illustration": {
+      "variant": "pavilion",
+      "accentColor": "#28666E",
+      "secondaryColor": "#E0F0F2"
+    }
+  },
+  {
+    "id": "kos-14",
+    "name": "Kos Lembayung Nologaten",
+    "type": "putri",
+    "area": "Nologaten, Sleman",
+    "address": "Jl. Nologaten Gg. Flamboyan No. 9, Caturtunggal, Depok, Sleman",
+    "distanceToCampus": "5 menit ke Ambarrukmo & UIN Sunan Kalijaga",
+    "price": 1200000,
+    "deposit": 400000,
+    "roomSize": "3,5 x 3,5 m",
+    "availableRooms": 3,
+    "rating": 4.7,
+    "ownerName": "Ibu Rini Handayani",
+    "description": "Kos putri asri dekat kawasan kampus UIN dan pusat perbelanjaan Ambarrukmo. Kamar sudah dilengkapi AC, meja belajar ergonomis, dan tersedia kulkas bersama di lantai dasar.",
+    "facilities": [
+      "Wi-Fi",
+      "AC",
+      "Kamar Mandi Dalam",
+      "Kasur & Lemari",
+      "Meja Belajar",
+      "Kulkas Bersama",
+      "Parkir Motor"
+    ],
+    "rules": [
+      "Khusus putri, tamu hanya sampai ruang tamu",
+      "Gerbang otomatis aktif mulai pukul 22.30 WIB",
+      "Dilarang menempel paku pada dinding kamar"
+    ],
+    "illustration": {
+      "variant": "joglo",
+      "accentColor": "#6B4E71",
+      "secondaryColor": "#EEE7F0"
+    }
+  }
+]
